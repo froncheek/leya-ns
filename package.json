@@ -1,0 +1,24 @@
+{
+  "name": "leya-ns",
+  "version": "0.0.1",
+  "description": "Convert namespace string into object.",
+  "main": "leya-ns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsleya",
+    "leya",
+    "namespace"
+  ],
+  "author": "froncheek <jerwin.ilagan@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froncheek/leya-ns.git"
+  },
+  "bugs": {
+    "url": "https://github.com/froncheek/leya-ns/issues"
+  },
+  "homepage": "https://github.com/froncheek/leya-ns#readme"
+}

@@ -56,7 +56,7 @@ ns.prototype.namespaceRef = function(n, ref) {
 
 /**
  * @method nsRef
- * Shorthand for namespace.
+ * Shorthand for namespaceRef.
  * @param {String} strNamespace
  */
 ns.prototype.nsRef = ns.prototype.namespaceRef
